@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'EuropeExt';
+    src: local('EuropeExt Bold'), local('EuropeExtBold'),
+        url('hinted-subset-EuropeExtBold.woff2') format('woff2'),
+        url('hinted-subset-EuropeExtBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'EuropeExt';
+    src: local('EuropeExt'),
+        url('hinted-subset-EuropeExt.woff2') format('woff2'),
+        url('hinted-subset-EuropeExt.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
